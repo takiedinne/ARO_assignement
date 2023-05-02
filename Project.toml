@@ -1,0 +1,8 @@
+name = "ARO_assignement"
+uuid = "93e174ae-da00-479e-8305-0d2a7dfe2ba9"
+authors = ["Taki Eddine HARBI <38916249+takiedinne@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
